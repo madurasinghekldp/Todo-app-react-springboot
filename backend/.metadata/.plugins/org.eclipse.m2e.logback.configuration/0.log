@@ -3068,3 +3068,4 @@ Caused by: java.net.UnknownHostException: sentry.io
 2022-06-29 23:02:19,111 [Worker-25: Launching RestfulWebServicesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-06-29 23:02:19,111 [Worker-25: Launching RestfulWebServicesApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hp\ful-stack-with-react-and-spring-boot\restful-web-services\src\test\resources
 2022-06-30 14:04:13,235 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-30 17:10:05,732 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
