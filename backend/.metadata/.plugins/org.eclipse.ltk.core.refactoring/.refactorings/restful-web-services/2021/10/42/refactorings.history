@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring clone="true" comment="Infer generic type arguments on &apos;restful-web-services&apos;&#x0D;&#x0A;- Original project: &apos;restful-web-services&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.dulan.rest.webservices.restfulwebservices.todo.TodoHardcodedService.java&#x0D;&#x0A;- Assume clone() returns an instance of the receiver type&#x0D;&#x0A;- Leave unconstrained type arguments raw" description="Infer generic type arguments" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dulan.rest.webservices.restfulwebservices.todo{TodoHardcodedService.java" flags="6" id="org.eclipse.jdt.ui.infer.typearguments" leave="true" stamp="1633884309082" version="1.0"/>
+</session>

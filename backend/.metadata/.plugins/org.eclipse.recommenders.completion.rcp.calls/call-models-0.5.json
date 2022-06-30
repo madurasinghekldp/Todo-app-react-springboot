@@ -1,0 +1,32 @@
+{
+  "C:\\Users\\hp\\.p2\\pool\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.2.v20200815-0835\\jre\\lib\\jrt-fs.jar": {
+    "location": "C:\\Users\\hp\\.p2\\pool\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.2.v20200815-0835\\jre\\lib\\jrt-fs.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\hp\\.p2\\pool\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.2.v20200815-0835\\jre\\lib\\jrt-fs.jar\u0027. Neither fingerprint \u00271cf80e3da56f7bb24a9f59446d90677428d16475\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\hp\\ful-stack-with-react-and-spring-boot\\restful-web-services\\src\\main\\java": {
+    "location": "C:\\Users\\hp\\ful-stack-with-react-and-spring-boot\\restful-web-services\\src\\main\\java",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\hp\\ful-stack-with-react-and-spring-boot\\restful-web-services\\src\\main\\java\u0027. Skipped."
+  },
+  "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-web\\5.3.10\\spring-web-5.3.10.jar": {
+    "location": "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-web\\5.3.10\\spring-web-5.3.10.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-web\\5.3.10\\spring-web-5.3.10.jar\u0027. Neither fingerprint \u002731984cef4b5d38f2711cf870994c43e89619ff4e\u0027 nor symbolic name \u0027spring-web-5.3.10\u0027 are known."
+  },
+  "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-webmvc\\5.3.10\\spring-webmvc-5.3.10.jar": {
+    "location": "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-webmvc\\5.3.10\\spring-webmvc-5.3.10.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\hp\\.m2\\repository\\org\\springframework\\spring-webmvc\\5.3.10\\spring-webmvc-5.3.10.jar\u0027. Neither fingerprint \u0027d8a26ccc0fb4788c05eca148be8ee987d554a9d2\u0027 nor symbolic name \u0027spring-webmvc-5.3.10\u0027 are known."
+  },
+  "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\security\\spring-security-config\\5.4.8\\spring-security-config-5.4.8.jar": {
+    "location": "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\security\\spring-security-config\\5.4.8\\spring-security-config-5.4.8.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\hp\\.m2\\repository\\org\\springframework\\security\\spring-security-config\\5.4.8\\spring-security-config-5.4.8.jar\u0027. Neither fingerprint \u0027e39f11cb6f6099ce06bf25bf636aabf2e0eff0b7\u0027 nor symbolic name \u0027spring-security-config-5.4.8\u0027 are known."
+  },
+  "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\security\\spring-security-core\\5.4.8\\spring-security-core-5.4.8.jar": {
+    "location": "C:\\Users\\hp\\.m2\\repository\\org\\springframework\\security\\spring-security-core\\5.4.8\\spring-security-core-5.4.8.jar",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\hp\\.m2\\repository\\org\\springframework\\security\\spring-security-core\\5.4.8\\spring-security-core-5.4.8.jar\u0027. Skipped."
+  }
+}
